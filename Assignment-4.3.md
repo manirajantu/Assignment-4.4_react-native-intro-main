@@ -1,0 +1,1 @@
+Assignment completed by downloading the Android Emulator and is working. 
